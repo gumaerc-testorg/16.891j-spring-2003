@@ -2,12 +2,17 @@
 content_type: resource
 description: Coordinating graphs regarding government versus commercial participation
   in space.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-891j-space-policy-seminar-spring-2003/bdbe9ea74c4d80d59bca049eb90343d2_spaceindustry.gif
+file: /media/courses/16-891j-space-policy-seminar-spring-2003/bdbe9ea74c4d80d59bca049eb90343d2_spaceindustry.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: spaceindustry.gif
 uid: bdbe9ea7-4c4d-80d5-9bca-049eb90343d2
