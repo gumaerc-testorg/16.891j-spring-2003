@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 78e2d1e2-b86d-fa98-68e2-5d9dd854d109
 resourcetype: Document
 title: nro.pdf
 uid: 0498a574-6f23-aa1a-6b39-bb43feacc1c8

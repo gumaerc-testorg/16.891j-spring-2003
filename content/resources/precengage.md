@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b713c905-1628-663a-bc73-6e7d2e52b013
 resourcetype: Image
 title: precengage.gif
 uid: afb0021b-6993-e39c-c719-ef875ad41af5

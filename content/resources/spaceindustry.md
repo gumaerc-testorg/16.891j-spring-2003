@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b713c905-1628-663a-bc73-6e7d2e52b013
 resourcetype: Image
 title: spaceindustry.gif
 uid: bdbe9ea7-4c4d-80d5-9bca-049eb90343d2

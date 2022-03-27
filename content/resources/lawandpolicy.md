@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b713c905-1628-663a-bc73-6e7d2e52b013
 resourcetype: Document
 title: lawandpolicy.pdf
 uid: e09b7e5f-fc7c-5c2f-14f0-9cb55050f344

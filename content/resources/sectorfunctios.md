@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b713c905-1628-663a-bc73-6e7d2e52b013
 resourcetype: Image
 title: sectorfunctios.gif
 uid: e5f33b74-9cf2-bfff-837f-5e5b4b2d439b
