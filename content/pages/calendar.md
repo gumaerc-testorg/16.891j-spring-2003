@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -56,7 +57,7 @@ Stone. Chap. 1, 2 Intro.
 
 Web sites for space policy players.
 
-Documents in [Reading 01]({{< baseurl >}}/pages/readings).
+Documents in {{% resource_link 78e2d1e2-b86d-fa98-68e2-5d9dd854d109 "Reading 01" %}}.
 
 Logsdon. "Rationale for space programs."
 
@@ -146,7 +147,7 @@ Spires. Chap. 6
 
 Wheelon. Chap. 3, 4
 
-Documents in [Reading 02]({{< baseurl >}}/pages/readings)
+Documents in {{% resource_link 78e2d1e2-b86d-fa98-68e2-5d9dd854d109 "Reading 02" %}}
 
 
 {{< tdclose >}}
@@ -169,7 +170,7 @@ Launius, and McCurdy. Chap. 5, 6, Epilogue
 
 Spires. Chap. 7, 8 "State of the Space Industry" Report
 
-Documents in [Reading 03]({{< baseurl >}}/pages/readings)
+Documents in {{% resource_link 78e2d1e2-b86d-fa98-68e2-5d9dd854d109 "Reading 03" %}}
 
 
 {{< tdclose >}}

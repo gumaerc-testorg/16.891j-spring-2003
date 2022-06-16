@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -44,9 +45,9 @@ Assignment Types
 
 There are three kinds of assignments for the seminar:
 
-*   [Reading]({{< baseurl >}}/pages/readings). Most weeks there will be extensive reading assigned. Please come to class prepared to discuss the readings for the week.
-*   [1-pg Memos]({{< baseurl >}}/pages/assignments). A 1-page memo on a relevant topic will be due almost each week. These 1-page memos are meant to be no more than 1 page, and are typical of what a high-level decision maker would expect when they ask you for background information or your recommendation.
-*   [Group Term Project]({{< baseurl >}}/pages/projects). Includes researching the issue, writing a paper/model, making a presentation to the class, and preparing reading materials for the class in preparation for the presentation. The group project will be a study of the technological, architectural and policy options associated with developing a new reusable launch vehicle.
+*   {{% resource_link 78e2d1e2-b86d-fa98-68e2-5d9dd854d109 "Reading" %}}. Most weeks there will be extensive reading assigned. Please come to class prepared to discuss the readings for the week.
+*   {{% resource_link d46fda9b-dd49-4f3c-eaae-9e51534aa7e5 "1-pg Memos" %}}. A 1-page memo on a relevant topic will be due almost each week. These 1-page memos are meant to be no more than 1 page, and are typical of what a high-level decision maker would expect when they ask you for background information or your recommendation.
+*   {{% resource_link 562cdd14-1441-b8fc-2eab-70e13fe1f5c9 "Group Term Project" %}}. Includes researching the issue, writing a paper/model, making a presentation to the class, and preparing reading materials for the class in preparation for the presentation. The group project will be a study of the technological, architectural and policy options associated with developing a new reusable launch vehicle.
 
 Information on each of these is available throughout the rest of this course.
 
