@@ -5,6 +5,7 @@ file: /courses/16-891j-space-policy-seminar-spring-2003/8b2debb9ad5b548cff074e03
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rogerscom.pdf
 uid: 8b2debb9-ad5b-548c-ff07-4e03eeff825d
 ---
 Readings: Challenger Accident Resources
-

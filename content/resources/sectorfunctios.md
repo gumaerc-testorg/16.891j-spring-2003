@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: sectorfunctios.gif
 uid: e5f33b74-9cf2-bfff-837f-5e5b4b2d439b
 ---
 Table of Military, Civil, Commercial and Intelligence functions.
-

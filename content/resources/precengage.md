@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: precengage.gif
 uid: afb0021b-6993-e39c-c719-ef875ad41af5
 ---
 Timeline table demonstrates that "space is an enabler of precision engagement."
-

@@ -5,6 +5,7 @@ file: /courses/16-891j-space-policy-seminar-spring-2003/9c2cca9cb3411cea8edd7d2b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: challengerlessons.pdf
 uid: 9c2cca9c-b341-1cea-8edd-7d2b880117e9
 ---
 Readings: Challenger Lessons Learned
-

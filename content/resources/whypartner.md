@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: whypartner.gif
 uid: a609314d-8411-68ba-67fb-a5223888f30b
 ---
 Splash page regarding future public and private expenditures on space.
-

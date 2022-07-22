@@ -5,6 +5,7 @@ file: /courses/16-891j-space-policy-seminar-spring-2003/2dd396b39033785a22ecb683
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: comlhabresources.pdf
 uid: 2dd396b3-9033-785a-22ec-b6835be8a601
 ---
 Readings: Commercial Hab Module Resources
-

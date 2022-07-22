@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Interdependeice.gif
 uid: 26b89104-3825-5ea0-add1-ca80d65f7a6b
 ---
 Venn diagram of Civil, Military, Commercial and Intelligence roles.
-

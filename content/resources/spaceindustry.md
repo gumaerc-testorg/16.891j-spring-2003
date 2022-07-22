@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: spaceindustry.gif
 uid: bdbe9ea7-4c4d-80d5-9bca-049eb90343d2
 ---
 Coordinating graphs regarding government versus commercial participation in space.
-
