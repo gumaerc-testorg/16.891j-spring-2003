@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture Notes: Explosion of Commercial Space and the Implications for
   National Security'
 file: /courses/16-891j-space-policy-seminar-spring-2003/d4618597e78ead5823e1bfd4247553ce_notes2_partb.pdf
+file_size: 141024
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

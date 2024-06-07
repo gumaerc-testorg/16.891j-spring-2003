@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture Notes: The Eighties'
 file: /courses/16-891j-space-policy-seminar-spring-2003/efd85d2c8a506f3a175749a6cee13a17_eightiesnotes.pdf
+file_size: 99513
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

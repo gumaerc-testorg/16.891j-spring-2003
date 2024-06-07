@@ -2,6 +2,7 @@
 content_type: resource
 description: Table of agencies and organizations involved with space.
 file: /courses/16-891j-space-policy-seminar-spring-2003/e40538f6ac9bb9126926dedca6df6145_players.gif
+file_size: 7617
 file_type: image/gif
 image_metadata:
   caption: ''
