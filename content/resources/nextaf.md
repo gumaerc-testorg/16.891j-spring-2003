@@ -2,6 +2,7 @@
 content_type: resource
 description: Timeline of space vehicles
 file: /courses/16-891j-space-policy-seminar-spring-2003/66c644870b48ce7df6798d776926c071_nextaf.gif
+file_size: 34803
 file_type: image/gif
 image_metadata:
   caption: ''

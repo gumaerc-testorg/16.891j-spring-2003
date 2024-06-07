@@ -2,6 +2,7 @@
 content_type: resource
 description: Table of Military, Civil, Commercial and Intelligence functions.
 file: /courses/16-891j-space-policy-seminar-spring-2003/e5f33b749cf2bfff837f5e5b4b2d439b_sectorfunctios.gif
+file_size: 9442
 file_type: image/gif
 image_metadata:
   caption: ''

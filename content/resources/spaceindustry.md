@@ -3,6 +3,7 @@ content_type: resource
 description: Coordinating graphs regarding government versus commercial participation
   in space.
 file: /courses/16-891j-space-policy-seminar-spring-2003/bdbe9ea74c4d80d59bca049eb90343d2_spaceindustry.gif
+file_size: 14357
 file_type: image/gif
 image_metadata:
   caption: ''
