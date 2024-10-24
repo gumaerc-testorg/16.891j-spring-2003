@@ -2,7 +2,7 @@
 content_type: resource
 description: Readings:Report of the commission to assess united states national security
   space management and organization.
-file: /courses/16-891j-space-policy-seminar-spring-2003/8b3580cb8eb489d084b5b593abbd1bf1_executive_summary.pdf
+file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/8b3580cb8eb489d084b5b593abbd1bf1_executive_summary.pdf
 file_size: 3106604
 file_type: application/pdf
 learning_resource_types:

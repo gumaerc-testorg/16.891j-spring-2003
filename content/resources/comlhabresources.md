@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Commercial Hab Module Resources'
-file: /courses/16-891j-space-policy-seminar-spring-2003/2dd396b39033785a22ecb6835be8a601_comlhabresources.pdf
+file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/2dd396b39033785a22ecb6835be8a601_comlhabresources.pdf
 file_size: 90622
 file_type: application/pdf
 learning_resource_types:
