@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Readings: A Report of National Commission for The Review Of The National
   Reconnaissance Office'
-file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/0498a5746f23aa1a6b39bb43feacc1c8_nro.pdf
+file: /courses/16-891j-space-policy-seminar-spring-2003/0498a5746f23aa1a6b39bb43feacc1c8_nro.pdf
 file_size: 6918617
 file_type: application/pdf
 learning_resource_types:

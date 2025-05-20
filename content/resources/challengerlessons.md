@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Challenger Lessons Learned'
-file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/9c2cca9cb3411cea8edd7d2b880117e9_challengerlessons.pdf
+file: /courses/16-891j-space-policy-seminar-spring-2003/9c2cca9cb3411cea8edd7d2b880117e9_challengerlessons.pdf
 file_size: 767261
 file_type: application/pdf
 learning_resource_types:

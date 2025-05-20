@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: The Sixties'
-file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/ab5b76f6b5926c7abd585ba15f292be2_sixtiesnotes.pdf
+file: /courses/16-891j-space-policy-seminar-spring-2003/ab5b76f6b5926c7abd585ba15f292be2_sixtiesnotes.pdf
 file_size: 102982
 file_type: application/pdf
 learning_resource_types:
