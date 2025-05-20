@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Commercial Habitation Module'
-file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/7d8ad1e40ac42171ed0f57eae3b7fbf4_cooke.pdf
+file: /courses/16-891j-space-policy-seminar-spring-2003/7d8ad1e40ac42171ed0f57eae3b7fbf4_cooke.pdf
 file_size: 1451975
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Space Enterprise'
-file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/e614425a231f1ae303ef7370c421347a_notes2.pdf
+file: /courses/16-891j-space-policy-seminar-spring-2003/e614425a231f1ae303ef7370c421347a_notes2.pdf
 file_size: 749821
 file_type: application/pdf
 learning_resource_types:
