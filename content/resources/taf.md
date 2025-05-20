@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Air Force Report'
-file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/a80ed0697205cb87906355ed0ce3ed7d_taf.pdf
+file: /courses/16-891j-space-policy-seminar-spring-2003/a80ed0697205cb87906355ed0ce3ed7d_taf.pdf
 file_size: 1665984
 file_type: application/pdf
 learning_resource_types:

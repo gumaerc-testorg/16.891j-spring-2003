@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: DoD Space Policy'
-file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/7014725c53e69dc9f404b2a3d21c5374_dodspacepol.pdf
+file: /courses/16-891j-space-policy-seminar-spring-2003/7014725c53e69dc9f404b2a3d21c5374_dodspacepol.pdf
 file_size: 359908
 file_type: application/pdf
 learning_resource_types:
