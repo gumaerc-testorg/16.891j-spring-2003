@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: History and Policy in the Fifties'
-file: /courses/16-891j-space-policy-seminar-spring-2003/51b0b1f685bc0bba6f040604c24fbb9b_fiftiesnotes.pdf
+file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/51b0b1f685bc0bba6f040604c24fbb9b_fiftiesnotes.pdf
 file_size: 87694
 file_type: application/pdf
 learning_resource_types:

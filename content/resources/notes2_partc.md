@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: National Security Space Activities'
-file: /courses/16-891j-space-policy-seminar-spring-2003/2d3d95d19a857d94070c9904f3741bab_notes2_partc.pdf
+file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/2d3d95d19a857d94070c9904f3741bab_notes2_partc.pdf
 file_size: 234571
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Readings: Challenger Accident Resources'
-file: /courses/16-891j-space-policy-seminar-spring-2003/8b2debb9ad5b548cff074e03eeff825d_rogerscom.pdf
+file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/8b2debb9ad5b548cff074e03eeff825d_rogerscom.pdf
 file_size: 57817
 file_type: application/pdf
 learning_resource_types:

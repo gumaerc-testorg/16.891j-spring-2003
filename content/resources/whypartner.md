@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Splash page regarding future public and private expenditures on space.
-file: /courses/16-891j-space-policy-seminar-spring-2003/a609314d841168ba67fba5223888f30b_whypartner.gif
+file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/a609314d841168ba67fba5223888f30b_whypartner.gif
 file_size: 32219
 file_type: image/gif
 image_metadata:
