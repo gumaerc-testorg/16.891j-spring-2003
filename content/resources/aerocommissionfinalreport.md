@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: courses/16-891j-space-policy-seminar-spring-2003/69188114f06202115a9765f8807bd177_aerocommissionFinalReport.pdf
+file: /ol-ocw-studio-app/courses/16-891j-space-policy-seminar-spring-2003/69188114f06202115a9765f8807bd177_aerocommissionFinalReport.pdf
 file_size: 37888
 file_type: application/pdf
 learning_resource_types:
