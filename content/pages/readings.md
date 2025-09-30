@@ -16,8 +16,8 @@ Reading 01
 *   Department of Defense Space Policy ({{% resource_link 7014725c-53e6-9dc9-f404-b2a3d21c5374 "PDF" %}})
 *   The NRO at the Crossroads ({{% resource_link 0498a574-6f23-aa1a-6b39-bb43feacc1c8 "PDF" %}})
 *   Air Force Report ({{% resource_link a80ed069-7205-cb87-9063-55ed0ce3ed7d "PDF" %}})
-*   [Aerospace Commission Final Report](http://history.nasa.gov/AeroCommissionFinalReport.pdf)
-*   [Report of the Commission to Assess United States National Security Space Management and Organization](https://fas.org/spp/military/commission/report.htm)
+*   {{% resource_link "36313cee-9434-408b-9f84-c6d9020f9a66" "Aerospace Commission Final Report" %}}
+*   {{% resource_link "0ad8a153-76e3-4586-9e7f-f867f6303d30" "Report of the Commission to Assess United States National Security Space Management and Organization" %}}
 
 Reading 02
 ----------
